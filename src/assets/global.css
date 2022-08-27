@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Tangerine');
+body {
+    font-family: 'Tangerine', serif;
+    font-size: 48px;
+    background-color: rgb(200, 200, 200);
+  }
